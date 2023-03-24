@@ -55,4 +55,4 @@ Follow instrunction [here](https://supabase.io/docs/guides/auth/auth-github)
 # Demo
 [https://hastechat.netlify.app](https://hastechat.netlify.app/)
 
-!['demo'](https://github.com/aman-s-20/chat-app/blob/main/public/demo.png)
+![alt text](https://github.com/aman-s-20/chat-app/blob/main/public/demo.png)
